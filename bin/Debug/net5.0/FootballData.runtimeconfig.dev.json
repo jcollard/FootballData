@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "/Users/jcollard/.dotnet/store/|arch|/|tfm|",
-      "/Users/jcollard/.nuget/packages"
-    ]
-  }
-}
