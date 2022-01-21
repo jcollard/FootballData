@@ -1,0 +1,15 @@
+/Users/jcollard/git/jcollard/FootballData/bin/Debug/net5.0/FootballData.deps.json
+/Users/jcollard/git/jcollard/FootballData/bin/Debug/net5.0/FootballData.runtimeconfig.json
+/Users/jcollard/git/jcollard/FootballData/bin/Debug/net5.0/FootballData.runtimeconfig.dev.json
+/Users/jcollard/git/jcollard/FootballData/bin/Debug/net5.0/FootballData.dll
+/Users/jcollard/git/jcollard/FootballData/bin/Debug/net5.0/ref/FootballData.dll
+/Users/jcollard/git/jcollard/FootballData/bin/Debug/net5.0/FootballData.pdb
+/Users/jcollard/git/jcollard/FootballData/obj/Debug/net5.0/FootballData.csproj.AssemblyReference.cache
+/Users/jcollard/git/jcollard/FootballData/obj/Debug/net5.0/FootballData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jcollard/git/jcollard/FootballData/obj/Debug/net5.0/FootballData.AssemblyInfoInputs.cache
+/Users/jcollard/git/jcollard/FootballData/obj/Debug/net5.0/FootballData.AssemblyInfo.cs
+/Users/jcollard/git/jcollard/FootballData/obj/Debug/net5.0/FootballData.csproj.CoreCompileInputs.cache
+/Users/jcollard/git/jcollard/FootballData/obj/Debug/net5.0/FootballData.dll
+/Users/jcollard/git/jcollard/FootballData/obj/Debug/net5.0/ref/FootballData.dll
+/Users/jcollard/git/jcollard/FootballData/obj/Debug/net5.0/FootballData.pdb
+/Users/jcollard/git/jcollard/FootballData/obj/Debug/net5.0/FootballData.genruntimeconfig.cache
